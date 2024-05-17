@@ -69,7 +69,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/ibrahimaitech) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ibrahimaitech)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/facebook.png?size=89)](https://ibrahimaitech)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimaitech)<br/>
+[![github](https://github.com/github.png?size=100)](https://github.com/Andrewdesoup)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/Andrewdesoup) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://Andrewdesoup)[![bot](https://github.com/youtube.png?size=89)](https://github.com/An drewdesoup)[![Heroku](https://github.com/facebook.png?size=89)](https://Andrewsoup)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/Andrewdesoup)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/Andrewdesoup)<br/>
 </div>
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
 
