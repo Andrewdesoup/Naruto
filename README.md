@@ -41,17 +41,17 @@
 <br>
 
 
-[![FORK NARUTO MD](https://img.shields.io/badge/FORK%20-NARUTO%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/NARUTO-MD-XMD/fork)
+[![FORK NARUTO MD](https://img.shields.io/badge/FORK%20-NARUTO%20MD%20MD-white)](https://github.com/Andrewdesoup/NARUTO-MD-XMD/fork)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/9305b6295345b2b602c84.jpg'/></a><a><img src='https://telegra.ph/file/9305b6295345b2b602c84.jpg'/></a>
 
 
 <p align="center"><a href="https://NARUTO-MD-app-6d384e753bee.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20PANTHER%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20NARUTO%20PMD%20APP-marron?style=for-the-badge&logo=narutomd" width="220" height="38.45"/></a></p>
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/9305b6295345b2b602c84.jpg'/></a>
 
 
    ## 🚀 `Bot Features`
@@ -77,3 +77,4 @@
 
 
 <a><img src='https://telegra.ph/file/927d3cf8c935e687b6213.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+MADE BY LOVE
