@@ -2,7 +2,7 @@
 <h1 align="center"><b>NARUTO MD ✅𝗩𝗫5</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Naruto-MD+by+Andrew..&heart;++;Self-taught+Back-Created+By,;ANDREW+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Naruto-MD+Created+Eben..&heart;++;Self-taught+Back-Created+By,;ANDREW+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/10ac7a8296ea389aeaf90.jpg" alt="01" border="0" /></a>     
